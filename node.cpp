@@ -1,3 +1,5 @@
+#include<iostream>
+#include<cstring>
 #include "node.h"
 
 //*********************implementation node *************************//
