@@ -1,5 +1,7 @@
 #include "node.h"
-
+#include<iostream>
+#include<stdio.h>
+#include<cstring>
 
 int main()
 {
