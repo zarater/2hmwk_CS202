@@ -1,9 +1,6 @@
-#include <iostream>
 #include<cstdlib>
 #include<cstring>
-#include<stdio.h>
-
-
+#include <iostream>
 using namespace std;
 
 class base
