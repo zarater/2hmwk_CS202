@@ -5,6 +5,7 @@ int main()
 {
 	char inputAct[20],yesNo[4],temp[20];
 	int numAct,flag=1;
+
 	cout << "Hello! Welcome to the world of activites" << endl;
 	cout << "The following activities are available:\n1)Athletics\n2)Sight Seeing\n";
 	cout << "NOTE: All inputs are case sensitive!" << endl;
@@ -30,7 +31,7 @@ int main()
 			{
 				cout << "Enter name of activity " << (i+1) << ": ";
 				char ch;
-				int j=0;
+				//int j=0;
 				strcpy(temp,"");
 				if(flag)
 				{
